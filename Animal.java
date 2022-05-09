@@ -12,7 +12,6 @@ public class Animal {
     class Tiger extends Animal{
     public void EatingHabit (){
         System.out.println("Tigers kills animal");
-
     }}
     class Cheetah extends Animal{
     public void EatingHabit(){
@@ -24,6 +23,7 @@ class Main {
         Animal Lion = new Lion();
         Animal Tiger= new Tiger();
         Animal Cheetah = new Cheetah();
+
         myAnimal.EatingHabit();
         Lion.EatingHabit();
         Tiger.EatingHabit();
