@@ -1,5 +1,5 @@
 package Inheritance1;
-
+ // inheritance
 public class World1 {
     void World() {
         System.out.println("World is Fantastic place to live");

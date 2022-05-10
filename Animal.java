@@ -1,5 +1,6 @@
 package Inheritance1;
 
+// Polymorphism
 public class Animal {
     public void EatingHabit() {
         System.out.println("Some Animal Eats meat");
